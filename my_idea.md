@@ -1,7 +1,4 @@
-## Open-source Software: Voyant Tools
-
-##This is my file
-<<<<<<< HEAD
-### View my fileai
-## Second title
-
+## The Role of Digital Technologies in Modern Computational Thinking
+### In today's digital world, understanding how technology works is just as important as knowing how to use it.
+## Computational Thinking, Computing like uCloud
+## Current Digital Technologies
